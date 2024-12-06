@@ -1,14 +1,26 @@
 package RealTimeEventTicketingSystem;
 
+import org.apache.log4j.Logger;
+
 import java.util.Vector;
 
 public class TicketPool {
     private int maximumTicketCapacity;
     private Vector<Ticket> ticketQueue;
+    private static Logger logger = Logger.getLogger(TicketPool.class);
+
 
     public TicketPool(int maximumTicketCapacity) {
         this.maximumTicketCapacity = maximumTicketCapacity;
         this.ticketQueue = new Vector<>();
+    }
+
+    public int getMaximumTicketCapacity() {
+        return maximumTicketCapacity;
+    }
+
+    public void setMaximumTicketCapacity(int maximumTicketCapacity) {
+        this.maximumTicketCapacity = maximumTicketCapacity;
     }
 
     public synchronized void addTicket(Ticket ticket) {
@@ -16,13 +28,13 @@ public class TicketPool {
             try {
                 wait();
             } catch (InterruptedException e) {
+                logger.error(e);
                 throw new RuntimeException(e);
             }
         }
         ticketQueue.add(ticket);
+        logger.info("Ticket added by - " + Thread.currentThread().getName() +" - current size is - " + ticketQueue.size());
         notifyAll();
-        System.out.println("Ticket added by - " + Thread.currentThread().getName() +
-                " - current size is - " + ticketQueue.size());
     }
 
     public synchronized Ticket buyTicket() {
@@ -30,13 +42,15 @@ public class TicketPool {
             try {
                 wait();
             } catch (InterruptedException e) {
-                throw new RuntimeException(e);
+                logger.error(e);
+                throw new RuntimeException(e.getMessage());
+
             }
         }
         Ticket ticket = ticketQueue.remove(0);
+        logger.info("Ticket bought by - " + Thread.currentThread().getName() +" - current size is - " + ticketQueue.size() + " - Ticket is - " + ticket);
         notifyAll();
-        System.out.println("Ticket bought by - " + Thread.currentThread().getName() +
-                " - current size is - " + ticketQueue.size() + " - Ticket is - " + ticket);
+
         return ticket;
     }
 }

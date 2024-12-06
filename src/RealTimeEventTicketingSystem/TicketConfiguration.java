@@ -46,17 +46,17 @@ public class TicketConfiguration {
         return "{\"totalTickets\":"+this.totalTickets+",\"ticketReleaseRate\":"+this.ticketReleaseRate+",\"customerRetrievalRate\":"+this.customerRetrievalRate+",\"maximumTicketsCapacity\":"+this.maximumTicketsCapacity+"}";
     }
 
-    public static void saveFile(TicketConfiguration configuration, String fileName) {
+    public static void saveFileConfig(TicketConfiguration configuration, String fileName) {
         try (Writer writer = new FileWriter(fileName)) {
             Gson gson = new Gson();
             gson.toJson(configuration, writer);
-            System.out.println("Configuration successfully saved in to" + fileName);
+            //System.out.println("Configuration successfully saved in to" + fileName);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
-    public static TicketConfiguration loadFile(String fileName) {
+    public static TicketConfiguration loadFileConfig(String fileName) {
         try (Reader reader = new FileReader(fileName)) {
             Gson gson = new Gson();
             return gson.fromJson(reader, TicketConfiguration.class);

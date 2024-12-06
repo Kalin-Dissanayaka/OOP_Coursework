@@ -3,23 +3,23 @@ package RealTimeEventTicketingSystem;
 import java.math.BigDecimal;
 
 public class Vendor implements Runnable {
-        private int vendorId;
+        private String vendorId;
         private int totalTickets;
         private int ticketReleaseRate;
         private TicketPool ticketPool;
 
-        public Vendor(int vendorId, int totalTickets, int ticketReleaseRate, TicketPool ticketPool) {
+        public Vendor(String vendorId, int totalTickets, int ticketReleaseRate, TicketPool ticketPool) {
             this.vendorId = vendorId;
             this.totalTickets = totalTickets;
             this.ticketReleaseRate = ticketReleaseRate;
             this.ticketPool = ticketPool;
         }
 
-        public int getVendorId() {
+        public String getVendorId() {
             return vendorId;
         }
 
-        public void setVendorId(int vendorId) {
+        public void setVendorId(String vendorId) {
             this.vendorId = vendorId;
         }
 
@@ -56,9 +56,9 @@ public class Vendor implements Runnable {
                 Thread.sleep(ticketReleaseRate * 1000);
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();
-                System.out.println("Vendor interrupted.");
+                //System.out.println("Vendor interrupted.");
             }
-            System.out.println("Vendor " + vendorId + " finished releasing tickets.");
+            //System.out.println("Vendor " + vendorId + " finished releasing tickets.");
         }
     }
 

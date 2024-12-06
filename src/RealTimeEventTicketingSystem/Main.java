@@ -1,26 +1,42 @@
 package RealTimeEventTicketingSystem;
 
+import java.util.Scanner;
+
+import static RealTimeEventTicketingSystem.TicketConfiguration.saveFileConfig;
+
 public class Main {
     public static void main(String[] args) {
         String fileName = "datafile.json";
 
-        TicketConfiguration configures = new TicketConfiguration(10,    100, 5, 200);
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter the number of total tickets you want to buy: ");
+        int totalTickets = scanner.nextInt();
 
 
-        System.out.println("Save configurations.");
-        TicketConfiguration.saveFile(configures, fileName);
+        System.out.println("Enter the customer retrieve rate: ");
+        int customerRetrievalRate = scanner.nextInt();
 
 
-        System.out.println("Load configuration.");
-        TicketConfiguration loadConfiguration = TicketConfiguration.loadFile(fileName);
-        System.out.println(loadConfiguration.toString());
+        System.out.println("Enter the ticket release rate ");
+        int ticketReleaseRate = scanner.nextInt();
 
-        int maximumTicketsCapacity = 200;
+
+        System.out.println("Enter the maximum ticket capacity: ");
+        int maximumTicketsCapacity = scanner.nextInt();
+
+        TicketConfiguration configures = new TicketConfiguration(totalTickets,ticketReleaseRate, customerRetrievalRate, maximumTicketsCapacity);
+
+        //System.out.println("Save configurations.");
+        saveFileConfig(configures, fileName);
+
+
+        //System.out.println("Load configuration.");
+        TicketConfiguration.loadFileConfig(fileName);
+        //System.out.println(loadConfiguration.toString());
+
         TicketPool ticketPool = new TicketPool(maximumTicketsCapacity);
-
-
         // Create Vendor thread
-        Vendor vendor = new Vendor(1, 60, 2, ticketPool);
+        Vendor vendor = new Vendor("kalin1", configures.getMaximumTicketsCapacity(), configures.getTicketReleaseRate(), ticketPool);
         Thread vendorThread = new Thread(vendor, "Vendor-1");
         vendorThread.start();
 

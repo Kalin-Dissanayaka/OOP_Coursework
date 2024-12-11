@@ -1,341 +1,441 @@
-2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 3
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 3
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 3
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 3
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 4
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 5
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 6
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 7
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 3
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 3
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 4
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 5
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 6
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 7
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 8
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 9
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 10
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 11
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 12
-  2024-12-05 11:33:51 INFO  TicketPool:27 - Ticket added by - Vendor-1 - current size is - 13
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 1 - current size is - 0 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 10 - current size is - 0 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 1 - current size is - 0 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 2 - current size is - 0 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 1 - current size is - 0 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 10 - current size is - 0 - Ticket is - Ticket{id=6, event='Event - 7', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 1 - current size is - 0 - Ticket is - Ticket{id=7, event='Event - 8', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 2 - current size is - 0 - Ticket is - Ticket{id=8, event='Event - 9', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 1 - current size is - 0 - Ticket is - Ticket{id=9, event='Event - 10', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 3
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 4
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 10 - current size is - 3 - Ticket is - Ticket{id=10, event='Event - 11', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 10 - current size is - 2 - Ticket is - Ticket{id=11, event='Event - 12', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 10 - current size is - 1 - Ticket is - Ticket{id=12, event='Event - 13', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 10 - current size is - 0 - Ticket is - Ticket{id=13, event='Event - 14', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 3
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 4
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 5
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 6
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 7
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 8
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 9
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 10
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 11
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 1 - current size is - 10 - Ticket is - Ticket{id=14, event='Event - 15', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 11
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 2 - current size is - 10 - Ticket is - Ticket{id=15, event='Event - 16', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 2 - current size is - 9 - Ticket is - Ticket{id=16, event='Event - 17', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 2 - current size is - 8 - Ticket is - Ticket{id=17, event='Event - 18', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 2 - current size is - 7 - Ticket is - Ticket{id=18, event='Event - 19', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 3 - current size is - 6 - Ticket is - Ticket{id=19, event='Event - 20', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 3 - current size is - 5 - Ticket is - Ticket{id=20, event='Event - 21', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 3 - current size is - 4 - Ticket is - Ticket{id=21, event='Event - 22', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 3 - current size is - 3 - Ticket is - Ticket{id=22, event='Event - 23', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 3 - current size is - 2 - Ticket is - Ticket{id=23, event='Event - 24', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 3 - current size is - 1 - Ticket is - Ticket{id=24, event='Event - 25', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=25, event='Event - 26', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=26, event='Event - 27', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 9 - current size is - 0 - Ticket is - Ticket{id=27, event='Event - 28', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=28, event='Event - 29', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=29, event='Event - 30', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=30, event='Event - 31', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 9 - current size is - 0 - Ticket is - Ticket{id=31, event='Event - 32', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=32, event='Event - 33', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=33, event='Event - 34', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=34, event='Event - 35', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 9 - current size is - 0 - Ticket is - Ticket{id=35, event='Event - 36', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 3
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 9 - current size is - 2 - Ticket is - Ticket{id=36, event='Event - 37', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 9 - current size is - 1 - Ticket is - Ticket{id=37, event='Event - 38', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 9 - current size is - 0 - Ticket is - Ticket{id=38, event='Event - 39', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=39, event='Event - 40', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=40, event='Event - 41', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 8 - current size is - 0 - Ticket is - Ticket{id=41, event='Event - 42', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=42, event='Event - 43', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 6 - current size is - 0 - Ticket is - Ticket{id=43, event='Event - 44', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=44, event='Event - 45', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 8 - current size is - 0 - Ticket is - Ticket{id=45, event='Event - 46', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 8 - current size is - 0 - Ticket is - Ticket{id=46, event='Event - 47', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 6 - current size is - 0 - Ticket is - Ticket{id=47, event='Event - 48', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 8 - current size is - 1 - Ticket is - Ticket{id=48, event='Event - 49', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 8 - current size is - 0 - Ticket is - Ticket{id=49, event='Event - 50', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 7 - current size is - 0 - Ticket is - Ticket{id=50, event='Event - 51', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 8 - current size is - 0 - Ticket is - Ticket{id=51, event='Event - 52', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 6 - current size is - 1 - Ticket is - Ticket{id=52, event='Event - 53', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 6 - current size is - 0 - Ticket is - Ticket{id=53, event='Event - 54', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 6 - current size is - 0 - Ticket is - Ticket{id=54, event='Event - 55', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 7 - current size is - 0 - Ticket is - Ticket{id=55, event='Event - 56', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 3
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 4
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 6 - current size is - 3 - Ticket is - Ticket{id=56, event='Event - 57', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:28 - Ticket added by - Vendor-1 - current size is - 4
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 7 - current size is - 3 - Ticket is - Ticket{id=57, event='Event - 58', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 7 - current size is - 2 - Ticket is - Ticket{id=58, event='Event - 59', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 7 - current size is - 1 - Ticket is - Ticket{id=59, event='Event - 60', price=1000.00}
-  2024-12-05 11:40:14 INFO  TicketPool:43 - Ticket bought by - Customer ID: 7 - current size is - 0 - Ticket is - Ticket{id=60, event='Event - 61', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 1 - current size is - 1 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 1 - current size is - 0 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 10 - current size is - 0 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 1 - current size is - 0 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 2 - current size is - 0 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 1 - current size is - 0 - Ticket is - Ticket{id=6, event='Event - 7', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 10 - current size is - 0 - Ticket is - Ticket{id=7, event='Event - 8', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 1 - current size is - 0 - Ticket is - Ticket{id=8, event='Event - 9', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 2 - current size is - 0 - Ticket is - Ticket{id=9, event='Event - 10', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 1 - current size is - 0 - Ticket is - Ticket{id=10, event='Event - 11', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 10 - current size is - 0 - Ticket is - Ticket{id=11, event='Event - 12', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 10 - current size is - 0 - Ticket is - Ticket{id=12, event='Event - 13', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 2 - current size is - 0 - Ticket is - Ticket{id=13, event='Event - 14', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 10 - current size is - 0 - Ticket is - Ticket{id=14, event='Event - 15', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 9 - current size is - 1 - Ticket is - Ticket{id=15, event='Event - 16', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 9 - current size is - 0 - Ticket is - Ticket{id=16, event='Event - 17', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 10 - current size is - 0 - Ticket is - Ticket{id=17, event='Event - 18', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 2 - current size is - 0 - Ticket is - Ticket{id=18, event='Event - 19', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 2 - current size is - 0 - Ticket is - Ticket{id=19, event='Event - 20', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 9 - current size is - 0 - Ticket is - Ticket{id=20, event='Event - 21', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 2 - current size is - 0 - Ticket is - Ticket{id=21, event='Event - 22', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 3 - current size is - 0 - Ticket is - Ticket{id=22, event='Event - 23', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 3 - current size is - 0 - Ticket is - Ticket{id=23, event='Event - 24', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 9 - current size is - 0 - Ticket is - Ticket{id=24, event='Event - 25', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 3 - current size is - 0 - Ticket is - Ticket{id=25, event='Event - 26', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=26, event='Event - 27', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 3 - current size is - 0 - Ticket is - Ticket{id=27, event='Event - 28', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 9 - current size is - 0 - Ticket is - Ticket{id=28, event='Event - 29', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 3 - current size is - 0 - Ticket is - Ticket{id=29, event='Event - 30', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=30, event='Event - 31', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 3 - current size is - 0 - Ticket is - Ticket{id=31, event='Event - 32', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 9 - current size is - 0 - Ticket is - Ticket{id=32, event='Event - 33', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 8 - current size is - 0 - Ticket is - Ticket{id=33, event='Event - 34', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=34, event='Event - 35', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 8 - current size is - 0 - Ticket is - Ticket{id=35, event='Event - 36', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 7 - current size is - 0 - Ticket is - Ticket{id=36, event='Event - 37', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 8 - current size is - 0 - Ticket is - Ticket{id=37, event='Event - 38', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=38, event='Event - 39', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 8 - current size is - 0 - Ticket is - Ticket{id=39, event='Event - 40', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 7 - current size is - 0 - Ticket is - Ticket{id=40, event='Event - 41', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 8 - current size is - 0 - Ticket is - Ticket{id=41, event='Event - 42', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=42, event='Event - 43', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 8 - current size is - 0 - Ticket is - Ticket{id=43, event='Event - 44', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 7 - current size is - 0 - Ticket is - Ticket{id=44, event='Event - 45', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 7 - current size is - 0 - Ticket is - Ticket{id=45, event='Event - 46', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 4 - current size is - 0 - Ticket is - Ticket{id=46, event='Event - 47', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 7 - current size is - 0 - Ticket is - Ticket{id=47, event='Event - 48', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 6 - current size is - 0 - Ticket is - Ticket{id=48, event='Event - 49', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 7 - current size is - 0 - Ticket is - Ticket{id=49, event='Event - 50', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=50, event='Event - 51', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=51, event='Event - 52', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 6 - current size is - 0 - Ticket is - Ticket{id=52, event='Event - 53', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=53, event='Event - 54', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 6 - current size is - 0 - Ticket is - Ticket{id=54, event='Event - 55', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=55, event='Event - 56', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 6 - current size is - 0 - Ticket is - Ticket{id=56, event='Event - 57', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=57, event='Event - 58', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 6 - current size is - 0 - Ticket is - Ticket{id=58, event='Event - 59', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 5 - current size is - 0 - Ticket is - Ticket{id=59, event='Event - 60', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:51 - Ticket bought by - Customer ID: 6 - current size is - 0 - Ticket is - Ticket{id=60, event='Event - 61', price=1000.00}
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 2
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 3
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 4
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 5
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 6
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 7
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 8
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 9
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 10
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 11
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 12
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 13
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 14
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 15
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 16
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 17
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 18
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 19
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 20
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 21
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 22
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 23
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 24
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 25
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 26
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 27
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 28
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 29
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 30
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 31
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 32
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 33
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 34
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 35
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 36
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 37
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 38
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 39
-  2024-12-06 10:15:03 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 40
+2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 2
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 3
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 4
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 5
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 4 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 3 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 2 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 1 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 0 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 2
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 1 - Ticket is - Ticket{id=6, event='Event - 7', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 0 - Ticket is - Ticket{id=7, event='Event - 8', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 0 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 0 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 2
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 3
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 2 - Ticket is - Ticket{id=8, event='Event - 9', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 1 - Ticket is - Ticket{id=9, event='Event - 10', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 0 - Ticket is - Ticket{id=10, event='Event - 11', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 0 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 0 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 0 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 0 - Ticket is - Ticket{id=6, event='Event - 7', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 0 - Ticket is - Ticket{id=7, event='Event - 8', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 0 - Ticket is - Ticket{id=8, event='Event - 9', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 0 - Ticket is - Ticket{id=9, event='Event - 10', price=1000.00}
+  2024-12-10 13:26:48 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 1
+  2024-12-10 13:26:48 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 0 - Ticket is - Ticket{id=10, event='Event - 11', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-5 - current size is - 1
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-20 - current size is - 0 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-12 - current size is - 1
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-3 - current size is - 2
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-3 - current size is - 3
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-15 - current size is - 4
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-17 - current size is - 5
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-4 - current size is - 6
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-7 - current size is - 7
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-14 - current size is - 8
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-6 - current size is - 9
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 10
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 11
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-16 - current size is - 12
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-10 - current size is - 13
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-11 - current size is - 14
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-11 - current size is - 15
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-20 - current size is - 16
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-8 - current size is - 17
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-19 - current size is - 18
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-9 - current size is - 19
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-18 - current size is - 20
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-13 - current size is - 21
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-18 - current size is - 22
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-9 - current size is - 23
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-9 - current size is - 24
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-9 - current size is - 25
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-19 - current size is - 26
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-19 - current size is - 27
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-8 - current size is - 28
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-20 - current size is - 29
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-11 - current size is - 30
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-10 - current size is - 31
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-16 - current size is - 32
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 33
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 34
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-6 - current size is - 35
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-14 - current size is - 36
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-7 - current size is - 37
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-4 - current size is - 38
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-17 - current size is - 39
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-15 - current size is - 40
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-3 - current size is - 41
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-12 - current size is - 42
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 41 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 40 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 39 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 38 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 37 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 36 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 35 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 34 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 33 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 32 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 31 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 30 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 29 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 28 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 27 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 26 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 25 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 24 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 23 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 22 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-5 - current size is - 21 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-5 - current size is - 20 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-5 - current size is - 19 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-5 - current size is - 18 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-5 - current size is - 17 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-6 - current size is - 16 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-6 - current size is - 15 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-6 - current size is - 14 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-6 - current size is - 13 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-6 - current size is - 12 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-7 - current size is - 11 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-7 - current size is - 10 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-7 - current size is - 9 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-7 - current size is - 8 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-7 - current size is - 7 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-8 - current size is - 6 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-8 - current size is - 5 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-8 - current size is - 4 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-8 - current size is - 3 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-8 - current size is - 2 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-9 - current size is - 1 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-9 - current size is - 0 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-5 - current size is - 1
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-9 - current size is - 0 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-5 - current size is - 1
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-20 - current size is - 0 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-12 - current size is - 1
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-3 - current size is - 2
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-15 - current size is - 3
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-17 - current size is - 4
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-4 - current size is - 5
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-7 - current size is - 6
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-14 - current size is - 7
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-6 - current size is - 8
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 9
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 10
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-16 - current size is - 11
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-10 - current size is - 12
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-11 - current size is - 13
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-20 - current size is - 14
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-8 - current size is - 15
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-19 - current size is - 16
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-9 - current size is - 17
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-18 - current size is - 18
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-13 - current size is - 19
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-18 - current size is - 20
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-19 - current size is - 21
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-8 - current size is - 22
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-20 - current size is - 23
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-11 - current size is - 24
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-10 - current size is - 25
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-16 - current size is - 26
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 27
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 28
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-6 - current size is - 29
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-14 - current size is - 30
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-7 - current size is - 31
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-4 - current size is - 32
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-17 - current size is - 33
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-15 - current size is - 34
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-3 - current size is - 35
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-12 - current size is - 36
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-10 - current size is - 35 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-10 - current size is - 34 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-10 - current size is - 33 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-10 - current size is - 32 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-10 - current size is - 31 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-11 - current size is - 30 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-11 - current size is - 29 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-11 - current size is - 28 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-11 - current size is - 27 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-11 - current size is - 26 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-12 - current size is - 25 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-12 - current size is - 24 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-12 - current size is - 23 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-12 - current size is - 22 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-12 - current size is - 21 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-13 - current size is - 20 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-13 - current size is - 19 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-13 - current size is - 18 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-13 - current size is - 17 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-13 - current size is - 16 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-14 - current size is - 15 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-14 - current size is - 14 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-14 - current size is - 13 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-14 - current size is - 12 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-14 - current size is - 11 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-15 - current size is - 10 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-15 - current size is - 9 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-15 - current size is - 8 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-15 - current size is - 7 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-15 - current size is - 6 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-16 - current size is - 5 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-16 - current size is - 4 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-16 - current size is - 3 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-16 - current size is - 2 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-16 - current size is - 1 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-17 - current size is - 0 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-5 - current size is - 1
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-9 - current size is - 0 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-5 - current size is - 1
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-20 - current size is - 0 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-12 - current size is - 1
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-15 - current size is - 2
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-17 - current size is - 3
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-4 - current size is - 4
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-7 - current size is - 5
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-14 - current size is - 6
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-6 - current size is - 7
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 8
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 9
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-16 - current size is - 10
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-10 - current size is - 11
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-20 - current size is - 12
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-8 - current size is - 13
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-18 - current size is - 14
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-13 - current size is - 15
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-17 - current size is - 14 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-17 - current size is - 13 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-17 - current size is - 12 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-17 - current size is - 11 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-18 - current size is - 10 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-18 - current size is - 9 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-18 - current size is - 8 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-18 - current size is - 7 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-18 - current size is - 6 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-19 - current size is - 5 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-19 - current size is - 4 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-19 - current size is - 3 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-19 - current size is - 2 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-19 - current size is - 1 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-20 - current size is - 0 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-13 - current size is - 1
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-20 - current size is - 0 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:30:10 INFO  TicketPool:36 - Ticket added by - Vendor-13 - current size is - 1
+  2024-12-11 13:30:10 INFO  TicketPool:51 - Ticket bought by - Customer-9 - current size is - 0 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-15 - current size is - 1
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-15 - current size is - 2
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-3 - current size is - 3
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-8 - current size is - 4
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-8 - current size is - 5
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-5 - current size is - 6
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-6 - current size is - 7
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-18 - current size is - 8
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-12 - current size is - 9
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-4 - current size is - 10
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-9 - current size is - 11
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-10 - current size is - 12
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-10 - current size is - 13
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-19 - current size is - 14
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-11 - current size is - 15
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-11 - current size is - 16
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-7 - current size is - 17
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-17 - current size is - 18
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-17 - current size is - 19
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-20 - current size is - 20
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-13 - current size is - 21
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 22
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-16 - current size is - 23
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 24
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-14 - current size is - 25
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-20 - current size is - 24 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-20 - current size is - 23 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-20 - current size is - 22 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-20 - current size is - 21 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-20 - current size is - 20 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 19 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 18 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 17 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 16 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-3 - current size is - 15 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-11 - current size is - 14 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-11 - current size is - 13 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-11 - current size is - 12 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-11 - current size is - 11 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-11 - current size is - 10 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-17 - current size is - 9 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-17 - current size is - 8 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-17 - current size is - 7 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-17 - current size is - 6 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-17 - current size is - 5 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-10 - current size is - 4 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-10 - current size is - 3 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-10 - current size is - 2 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-10 - current size is - 1 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-10 - current size is - 0 - Ticket is - Ticket{id=1, event='Event - 2', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-14 - current size is - 1
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 2
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-16 - current size is - 3
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 4
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-13 - current size is - 5
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-20 - current size is - 6
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-17 - current size is - 7
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-7 - current size is - 8
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-7 - current size is - 9
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-7 - current size is - 10
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-11 - current size is - 11
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-19 - current size is - 12
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-10 - current size is - 13
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-9 - current size is - 14
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-4 - current size is - 15
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-12 - current size is - 16
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-18 - current size is - 17
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-6 - current size is - 18
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-5 - current size is - 19
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-8 - current size is - 20
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-3 - current size is - 21
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-15 - current size is - 22
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-3 - current size is - 23
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-8 - current size is - 24
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-5 - current size is - 25
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-5 - current size is - 26
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-5 - current size is - 27
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-6 - current size is - 28
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-18 - current size is - 29
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-18 - current size is - 30
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-12 - current size is - 31
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-4 - current size is - 32
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-9 - current size is - 33
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-9 - current size is - 34
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-10 - current size is - 35
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-19 - current size is - 36
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-11 - current size is - 37
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-7 - current size is - 38
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-17 - current size is - 39
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-17 - current size is - 40
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-20 - current size is - 41
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-13 - current size is - 42
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 43
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-16 - current size is - 44
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 45
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-14 - current size is - 46
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 45 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 44 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 43 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 42 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-1 - current size is - 41 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 40 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 39 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 38 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 37 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-2 - current size is - 36 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 35 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 34 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 33 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 32 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-4 - current size is - 31 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-7 - current size is - 30 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-7 - current size is - 29 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-7 - current size is - 28 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-7 - current size is - 27 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-7 - current size is - 26 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-9 - current size is - 25 - Ticket is - Ticket{id=2, event='Event - 3', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-9 - current size is - 24 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-9 - current size is - 23 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-9 - current size is - 22 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-9 - current size is - 21 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-6 - current size is - 20 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-6 - current size is - 19 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-6 - current size is - 18 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-6 - current size is - 17 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-6 - current size is - 16 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-12 - current size is - 15 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-12 - current size is - 14 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-12 - current size is - 13 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-12 - current size is - 12 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-12 - current size is - 11 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-8 - current size is - 10 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-8 - current size is - 9 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-8 - current size is - 8 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-8 - current size is - 7 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-8 - current size is - 6 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-5 - current size is - 5 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-5 - current size is - 4 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-5 - current size is - 3 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-5 - current size is - 2 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-5 - current size is - 1 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-16 - current size is - 0 - Ticket is - Ticket{id=3, event='Event - 4', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-14 - current size is - 1
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 2
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-16 - current size is - 3
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 4
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-13 - current size is - 5
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-20 - current size is - 6
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-11 - current size is - 7
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-19 - current size is - 8
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-10 - current size is - 9
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-9 - current size is - 10
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-4 - current size is - 11
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-12 - current size is - 12
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-18 - current size is - 13
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-6 - current size is - 14
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-8 - current size is - 15
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-3 - current size is - 16
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-15 - current size is - 17
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-3 - current size is - 18
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-6 - current size is - 19
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-12 - current size is - 20
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-4 - current size is - 21
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-19 - current size is - 22
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-20 - current size is - 23
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-13 - current size is - 24
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-2 - current size is - 25
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-16 - current size is - 26
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-1 - current size is - 27
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-14 - current size is - 28
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-15 - current size is - 27 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-15 - current size is - 26 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-15 - current size is - 25 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-15 - current size is - 24 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-15 - current size is - 23 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-13 - current size is - 22 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-13 - current size is - 21 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-13 - current size is - 20 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-13 - current size is - 19 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-13 - current size is - 18 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-14 - current size is - 17 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-14 - current size is - 16 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-14 - current size is - 15 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-14 - current size is - 14 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-14 - current size is - 13 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-19 - current size is - 12 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-19 - current size is - 11 - Ticket is - Ticket{id=4, event='Event - 5', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-19 - current size is - 10 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-19 - current size is - 9 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-19 - current size is - 8 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-18 - current size is - 7 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-18 - current size is - 6 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-18 - current size is - 5 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-18 - current size is - 4 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-18 - current size is - 3 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-16 - current size is - 2 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-16 - current size is - 1 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-16 - current size is - 0 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
+  2024-12-11 13:31:28 INFO  TicketPool:36 - Ticket added by - Vendor-15 - current size is - 1
+  2024-12-11 13:31:28 INFO  TicketPool:51 - Ticket bought by - Customer-16 - current size is - 0 - Ticket is - Ticket{id=5, event='Event - 6', price=1000.00}
   

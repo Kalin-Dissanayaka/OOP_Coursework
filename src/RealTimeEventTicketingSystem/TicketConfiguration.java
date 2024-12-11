@@ -50,7 +50,7 @@ public class TicketConfiguration {
         try (Writer writer = new FileWriter(fileName)) {
             Gson gson = new Gson();
             gson.toJson(configuration, writer);
-            //System.out.println("Configuration successfully saved in to" + fileName);
+            System.out.println("Configuration successfully saved in to" + fileName);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }

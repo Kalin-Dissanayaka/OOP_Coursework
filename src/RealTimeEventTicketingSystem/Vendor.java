@@ -53,7 +53,7 @@ public class Vendor implements Runnable {
                 ticketPool.addTicket(ticket);
             }
             try {
-                Thread.sleep(ticketReleaseRate * 1000);
+                Thread.sleep(ticketReleaseRate * 3000);
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();
                 //System.out.println("Vendor interrupted.");

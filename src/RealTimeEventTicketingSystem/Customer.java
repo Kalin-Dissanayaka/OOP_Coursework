@@ -24,7 +24,7 @@ public class Customer implements Runnable{
                 //System.out.println("Customer " + customerId + " couldn't purchase a ticket.");
             }
         } try {
-            Thread.sleep(customerRetrievalInterval * 3000);
+            Thread.sleep(customerRetrievalInterval * 1000);
         } catch (InterruptedException e) {
             Thread.currentThread().interrupt();
             System.out.println("Customer " + customerId + " interrupted.");

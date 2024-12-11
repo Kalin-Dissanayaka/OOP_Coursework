@@ -10,9 +10,9 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Configuration Form");
-        System.out.println("------------------");
 
-        //  for get Configuration Input
+
+        //for get Configuration Input
         int totalTickets = intInput("Enter the Total Number of Tickets: ");
         int ticketReleaseRate = intInput("Enter the Ticket Release Rate (in seconds): ");
         int customerRetrievalRate = intInput("Enter the Customer Retrieval Rate (in seconds): ");
@@ -20,14 +20,14 @@ public class Main {
 
         System.out.println("\n Entry point for Simulation :");
 
-        System.out.println("\nCustomer Configuration:");
-        System.out.println("------------------");
-        System.out.println("Note this: Ensure that (Number of customers) * (Tickets per customer) = Total tickets to the simple simulation.");
+        System.out.println("\nCustomer Configuration details:");
+        System.out.println("******");
+        System.out.println("alert-> Ensure that (Number of customers) * (Tickets per customer) = Total tickets for the smooth simulation.");
 
         int numberOfCustomers, numberOfTicketsPerCustomer;
         while (true) {
             numberOfCustomers = intInput("Enter number of Customers: ");
-            numberOfTicketsPerCustomer = intInput("Enter number of Tickets each Customer should buy: ");
+            numberOfTicketsPerCustomer = intInput("Enter number of Tickets one Customer should buy: ");
             if (numberOfCustomers * numberOfTicketsPerCustomer != totalTickets) {
                 System.out.println("Error type: Customers must buy all tickets to match the total tickets for smooth simulation.");
             } else {
@@ -36,23 +36,26 @@ public class Main {
         }
 
         System.out.println("\nVendor Configuration:");
-        System.out.println("----------------------");
-        System.out.println("Note this: Ensure that (Number of Vendors) * (Tickets per release) * (Releases) = Total tickets.");
+        System.out.println("******");
+        System.out.println("Alert-> Ensure that (Number of Vendors) * (Tickets per release) * (Releases) = Total tickets.");
 
         int numVendors, numberoOfTicketsPerRelease, numOfReleases;
         while (true) {
             numVendors = intInput("Enter number of Vendors: ");
-            numberoOfTicketsPerRelease = intInput("Enter the number of Tickets per single release: ");
+            numberoOfTicketsPerRelease = intInput("Enter the number of Tickets per one release: ");
             numOfReleases = intInput("Enter the number of Releases each Vendor makes: ");
             if (numVendors * numberoOfTicketsPerRelease * numOfReleases != totalTickets) {
-                System.out.println("Error type: Vendors must release all tickets to match the total tickets.");
+                System.out.println("red alert->> Vendors must release all tickets to match the total tickets.");
             } else {
                 break;
             }
         }
 
+        System.out.println("All the configuration details added successfully");
+
+        System.out.println("*******");
         System.out.println("\nStart the Simulation:");
-        System.out.println("------------------");
+        System.out.println("*******");
 
         while (true) {
             String start = stringInput("You want to Start System? (Yes/No): ");
@@ -80,7 +83,7 @@ public class Main {
                 }
 
                 System.out.println("Simulation running...");
-                System.out.println("---------------------");
+                System.out.println();
 
                 // Wait until thread finish
                 for (Vendor vendor : vendors) {
@@ -103,7 +106,7 @@ public class Main {
                     }
                 }
 
-                System.out.println("Simulation Ended properly!");
+                System.out.println("System Simulation Ended properly!");
                 break;
             } else if (start.equalsIgnoreCase("no")) {
                 System.out.println("Exiting System!");

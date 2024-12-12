@@ -8,6 +8,8 @@ public class Vendor implements Runnable {
         private int ticketReleaseRate;
         private TicketPool ticketPool;
 
+
+
         public Vendor(String vendorId, int totalTickets, int ticketReleaseRate, TicketPool ticketPool) {
             this.vendorId = vendorId;
             this.totalTickets = totalTickets;
@@ -44,7 +46,10 @@ public class Vendor implements Runnable {
             this.ticketPool = ticketPool;
         }
 
-
+    /**
+     * Executes the ticket releasing process. Tickets are released one at a time
+     * into the shared ticket pool at the specified rate until all tickets are released.
+     */
         @Override
         public void run() {
             int ticketNumber = 1;

@@ -46,6 +46,7 @@ public class TicketConfiguration {
         return "{\"totalTickets\":"+this.totalTickets+",\"ticketReleaseRate\":"+this.ticketReleaseRate+",\"customerRetrievalRate\":"+this.customerRetrievalRate+",\"maximumTicketsCapacity\":"+this.maximumTicketsCapacity+"}";
     }
 
+
     public static void saveFileConfig(TicketConfiguration configuration, String fileName) {
         try (Writer writer = new FileWriter(fileName)) {
             Gson gson = new Gson();
